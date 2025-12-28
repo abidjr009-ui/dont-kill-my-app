@@ -78,7 +78,8 @@ You can choose one of three power-saving options under each app and allow the ap
   </figure>
 
   <figure>
-    <img src="/assets/img/oppo/oppo_power_saver_2.jpg">
+saya ingin mengaktifkan sizuku
+      <img src="/assets/img/oppo/oppo_power_saver_2.jpg">
     <figcaption>Choices for the Power saver modes.</figcaption>
   </figure>
 
